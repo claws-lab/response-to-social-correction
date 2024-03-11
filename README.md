@@ -1,7 +1,7 @@
 # Corrective or Backfire: Characterizing and Predicting User Response to Social Correction
 This repository contains data and code for our ACM Web Science 2024 publication regarding response to social correction on Twitter. 
 
-The PDF can be accessed here: [PDF](https://faculty.cc.gatech.edu/~srijan/pubs/ma-websci23-social-correction.pdf)
+The PDF can be accessed here: [PDF](https://arxiv.org/abs/2403.04852v1)
 
 ## Introduction
 

@@ -3,6 +3,18 @@ This repository contains data and code for our ACM Web Science 2024 publication 
 
 The PDF can be accessed here: [PDF](https://arxiv.org/abs/2403.04852v1)
 
+
+## Citation
+```
+@inproceedings{he2024corrective,
+  title={Corrective or Backfire: Characterizing and Predicting User Response to Social Correction},
+  author={He, Bing and Ma, Yingchen and Ahamad, Mustaque and Kumar, Srijan},
+  booktitle={Proceedings of the 16th ACM Web Science Conference},
+  pages={149--158},
+  year={2024}
+}
+```
+
 ## Introduction
 
 Online misinformation poses a global risk with harmful implica- tions for society. Ordinary social media users are known to actively reply to misinformation posts with counter-misinformation mes- sages, which is shown to be effective in containing the spread of misinformation. Such a practice is defined as “social correction”. Nevertheless, it remains unknown how users respond to social cor- rection in real-world scenarios, especially, will it have a corrective or backfire effect on users. Investigating this research question is pivotal for developing and refining strategies that maximize the efficacy of social correction initiatives. 
